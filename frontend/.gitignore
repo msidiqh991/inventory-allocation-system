@@ -1,0 +1,36 @@
+# Dependencies
+node_modules/
+/.pnp
+.pnp.js
+
+# Testing
+/coverage
+
+# Packagelock files
+package-lock.json
+
+# Next.js
+.next/
+out/
+
+# Production
+/build
+
+# Environment Variables
+.env
+
+# Vercel
+.vercel
+
+
+# IDEs and Editors
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
