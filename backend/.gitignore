@@ -1,0 +1,14 @@
+# Dependencies
+node_modules/
+
+# Environment Variables
+.env
+
+# IDEs and Editors
+.vscode/
+
+# Coverage
+/coverage
+
+# Packagelock files
+package-lock.json
